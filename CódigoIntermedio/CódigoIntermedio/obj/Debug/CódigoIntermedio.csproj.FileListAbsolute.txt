@@ -1,0 +1,9 @@
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\bin\Debug\CódigoIntermedio.exe.config
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\bin\Debug\CódigoIntermedio.exe
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\bin\Debug\CódigoIntermedio.pdb
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\obj\Debug\CódigoIntermedio.csprojResolveAssemblyReference.cache
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\obj\Debug\CódigoIntermedio.codIntermedio.resources
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\obj\Debug\CódigoIntermedio.Properties.Resources.resources
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\obj\Debug\CódigoIntermedio.csproj.GenerateResource.Cache
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\obj\Debug\CódigoIntermedio.exe
+c:\users\otrosusuarios\documents\visual studio 2013\Projects\CódigoIntermedio\CódigoIntermedio\obj\Debug\CódigoIntermedio.pdb
